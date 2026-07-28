@@ -32,7 +32,7 @@
 ### 📊 GitHub Statistics
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/JotaPert/JotaPert/stats-output/stats.svg?v=2" height="160" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/JotaPert/JotaPert/stats-output/stats.svg?v=3" height="160" alt="GitHub Stats" />
   <img src="https://raw.githubusercontent.com/JotaPert/JotaPert/languages-output/languages.svg?v=1" height="160" alt="Most Used Languages" />
 </div>
 
