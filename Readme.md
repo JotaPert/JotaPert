@@ -32,7 +32,7 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JotaPert/JotaPert/metrics-output/github-metrics.svg?v=6" width="480" alt="GitHub Metrics" />
+  <img src="https://github-stats-extended.vercel.app/api?username=JotaPert&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight" width="480" alt="GitHub Stats" />
 </div>
 
 <br />
