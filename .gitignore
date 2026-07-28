@@ -1,0 +1,11 @@
+# Python scripts for GIF generation
+*.py
+__pycache__/
+
+# Intermediate images and frames
+*.jpg
+*.png
+frames/
+
+# Settings
+*.toml
