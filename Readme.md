@@ -32,8 +32,8 @@
 ### 📊 GitHub Statistics
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/JotaPert/JotaPert/stats-output/stats.svg?v=4" height="160" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/JotaPert/JotaPert/languages-output/languages.svg?v=4" height="160" alt="Most Used Languages" />
+  <img src="https://raw.githubusercontent.com/JotaPert/JotaPert/stats-output/stats.svg?v=5" height="160" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/JotaPert/JotaPert/languages-output/languages.svg?v=5" height="160" alt="Most Used Languages" />
 </div>
 
 <br />
