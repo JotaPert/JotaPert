@@ -33,7 +33,7 @@
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=JotaPert&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/JotaPert/JotaPert/languages-output/languages.svg?v=6" width="48%" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=JotaPert&layout=donut&langs_count=6&theme=tokyonight" width="33%" alt="Top Languages" />
 </div>
 
 <br />
