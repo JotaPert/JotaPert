@@ -68,16 +68,6 @@
 
 <br />
 
-<hr />
-
-### 🎵 Recently Played on Spotify
-
-<div align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ldpwmqqyps5yuo8hlaf20yd7y" alt="Spotify Recently Played" />
-  </a>
-</div>
-
 <div data-importer="border">
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&color=0:7AA2F7,50:BB9AF7,100:F7768E" />
 </div>
