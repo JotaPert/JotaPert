@@ -32,14 +32,14 @@
 ### 📊 GitHub Statistics
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/JotaPert/JotaPert/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&hide_border=false" height="160" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/JotaPert/JotaPert/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="160" alt="Most Used Languages" />
+  <img src="https://raw.githubusercontent.com/JotaPert/JotaPert/stats-output/stats.svg?v=1" height="160" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/JotaPert/JotaPert/languages-output/languages.svg?v=1" height="160" alt="Most Used Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img data-importer="snake" src="https://raw.githubusercontent.com/JotaPert/JotaPert/snake-output/snake.svg" alt="Snake animation" />
+  <img data-importer="snake" src="https://raw.githubusercontent.com/JotaPert/JotaPert/snake-output/snake.svg?v=1" alt="Snake animation" />
 </div>
 
 <hr />
