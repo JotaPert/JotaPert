@@ -1,12 +1,4 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=4000&pause=1000&color=7AA2F7&background=00000000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Juan+M%C3%A1rquez!;Informatics+Engineering;Full+Stack+Developer;Software+Quality+Assurance" alt="Typing SVG" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
   <img src="./output.gif" alt="Terminal About Me" />
 </div>
 
